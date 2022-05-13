@@ -1,0 +1,8 @@
+.container {
+    height: 100vh; /* centralizando os itens na tela */
+    display: flex;/* centralizando os itens na tela */
+    justify-content: center; /* centralizando os itens na tela */
+    align-items: center;/* centralizando os itens na tela */
+    flex-direction: column;/* centralizando os itens na tela */
+    background: linear-gradient(#121212, #212b46);
+} /*continuar do minuto 16:50*/
